@@ -1,0 +1,26 @@
+@theme {
+  --color-cream: #F4E9D5;
+  --color-coffee: #573724;
+  --color-copper: #9D693B;
+  --color-forest: #304338;
+  --font-heading: Georgia, "Times New Roman", serif;
+  --font-body: "Segoe UI", Arial, sans-serif;
+}
+
+:root {
+  --space-2: .5rem;
+  --space-3: .75rem;
+  --space-4: 1rem;
+  --space-6: 1.5rem;
+  --space-10: 2.5rem;
+  --space-12: 3rem;
+  --content-width: 72rem;
+  --border-thin: 1px;
+  --color-border: #57372433;
+  --radius-control: .375rem;
+  --radius-panel: 1rem;
+  --duration-fast: 160ms;
+  --duration-reveal: 350ms;
+  --ease-standard: cubic-bezier(.2, .8, .2, 1);
+}
+

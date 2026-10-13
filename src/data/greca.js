@@ -1,0 +1,37 @@
+export const greca = {
+  eyebrow: 'EL CORAZÓN DEL CAFÉ',
+  title: 'Una máquina. Más de un siglo de historia.',
+  year: '1905',
+  yearLabel: 'Año de fabricación según la fuente',
+  manufacturer: 'Victoria Arduino',
+  origin: 'Turín, Italia',
+  introduction: 'La greca Victoria Arduino de 1905 procede de Turín, Italia. Tras su adquisición, Orlando promovió adaptaciones para usar electricidad y, después, gas.',
+  image: {
+    src: '/images/greca/greca-1905-principal.webp',
+    alt: 'Greca Victoria Arduino con águila ornamental y jarras sobre el mostrador.',
+    width: 1448, height: 1086,
+    fit: 'contain',
+    fallback: '/images/greca/greca-provisional.svg',
+    fallbackAlt: 'Lámina ornamental provisional; no representa la greca auténtica.',
+    placeholderTitle: 'La pieza original, por retratar',
+    placeholderLabel: 'Fotografía auténtica pendiente',
+    caption: '02 / La greca',
+    credit: null,
+    position: 'center',
+  },
+  facts: [
+    { id: 'origen', label: 'Procedencia', value: 'Italia', detail: 'Victoria Arduino · Turín' },
+    { id: 'energia', label: 'Transformación', value: 'Un oficio que se adapta', detail: 'De la caldera a nuevas fuentes de energía.' },
+    { id: 'funcionamiento', label: 'Registro de 2020', value: 'En funcionamiento', detail: 'Así la documentó Diners; el estado actual requiere confirmación.' },
+  ],
+  sourceLabel: 'Relato documentado en 2020',
+  details: {
+    title: 'Una mirada más cercana',
+    text: '',
+    images: [
+      { src: '/images/greca/greca-vista-frontal-editorial.webp', alt: 'Vista frontal de la greca con sus válvulas y águila ornamental.', caption: 'La máquina, de cerca', width: 1086, height: 1448 },
+      { src: '/images/greca/greca-detalle-manija.webp', alt: 'Una mano acciona una válvula de la greca junto a una jarra entre el vapor.', caption: 'Los detalles del oficio', width: 1086, height: 1448 },
+    ],
+  },
+  pending: ['Fotografía auténtica de la greca y permiso de uso', 'Detalles técnicos y estado actual confirmados por la familia', 'Fotografías de detalle con descripciones y créditos'],
+}

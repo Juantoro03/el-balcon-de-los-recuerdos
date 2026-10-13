@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1250" viewBox="0 0 1000 1250">
+<rect width="1000" height="1250" fill="#304338"/><rect x="38" y="38" width="924" height="1174" rx="2" fill="none" stroke="#cda479" stroke-width="2"/>
+<rect x="58" y="58" width="884" height="1134" fill="none" stroke="#cda479" stroke-opacity=".4"/>
+<g text-anchor="middle" fill="#F4E9D5">
+<rect x="205" y="120" width="590" height="70" fill="#F4E9D5"/>
+<text x="500" y="165" fill="#573724" font-family="Arial,sans-serif" font-size="22" letter-spacing="2">DEMOSTRACIÓN · NO ES UNA OFERTA</text>
+<text x="500" y="315" font-family="Georgia,serif" font-size="60">El Balcón</text><text x="500" y="380" font-family="Georgia,serif" font-size="60">de los Recuerdos</text>
+<text x="500" y="445" font-family="Arial,sans-serif" font-size="22" letter-spacing="6">SALENTO · QUINDÍO</text>
+<path d="M270 550h460M270 930h460" stroke="#cda479"/>
+<text x="500" y="640" fill="#cda479" font-size="55">✦</text>
+<text x="500" y="735" font-family="Georgia,serif" font-size="52">Un espacio para</text>
+<text x="500" y="800" font-family="Georgia,serif" font-size="52">compartir novedades</text>
+<text x="500" y="1025" font-family="Arial,sans-serif" font-size="25">Flyer de ejemplo</text>
+<text x="500" y="1070" font-family="Arial,sans-serif" font-size="25">pendiente de sustituir</text>
+</g></svg>

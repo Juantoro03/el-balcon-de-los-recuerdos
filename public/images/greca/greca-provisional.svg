@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" fill="none">
+<defs><radialGradient id="bronze"><stop stop-color="#41523d"/><stop offset="1" stop-color="#17281f"/></radialGradient></defs>
+<path fill="url(#bronze)" d="M0 0h800v1000H0z"/>
+<g stroke="#cfa576"><path opacity=".55" d="M40 170V40h130M630 40h130v130M760 830v130H630M170 960H40V830"/>
+<rect opacity=".4" x="92" y="92" width="616" height="816" rx="308"/><rect opacity=".2" x="112" y="112" width="576" height="776" rx="288"/>
+<circle opacity=".2" cx="400" cy="500" r="238"/><path opacity=".45" d="M400 137v55M400 808v55M137 500h45M618 500h45M365 230h70M365 770h70"/></g></svg>
